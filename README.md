@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sardorboboshov
-- 👀 I’m interested in Web development,and curious about learning all JS technologies(MERN and MEAN stacks)
+- 👀 I’m interested in Web development,and curious about learning backend technologies
+- Also, I'm interested in solving leetcode problems, [Leetcode](https://leetcode.com/techlead_uz/)
 - 🌱 I’m currently working as an Associate Software Developer on Exadel
 - 📫 How to reach me -Telegram->@techlead_uz, [Linkedin](https://www.linkedin.com/in/sardorboboshov/)
 
